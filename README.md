@@ -1,10 +1,11 @@
-# KlipperS1Config
+# Ender-3 S1 Klipper and Prusa
+
 
 This project is to track my config over time for my Ender S1 with a Sonic Pad.
 
-## Machine Setting
+## Klipper Machine Setting
 
-You can mind the machine settings in the [Klipper Machine Settings](Klipper Machine Settings/) folder
+You can mind the machine settings in the [Klipper Machine Settings](KlipperMachineSettings) folder
 
 ## Prusa Settings 
 
